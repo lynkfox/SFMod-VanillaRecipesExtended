@@ -2,7 +2,7 @@ Math for every recipe and comparison to some similar vanilla ones can be found i
 
 # Milestone Unlock: Bio Extended (Tier 3)
 
-![Bio Extended](img/bio_extended.png) Bio Extended adds four alternate recipes for using up all that Bio you've accumulated after finally getting Coal online. Converting this Bio into Coal for backup incase your generators pull to much or to add a little bit of flex into your chains where coal is being used for Steel or Coke and must be transported across distances - which can lead to gaps in input.
+![Bio Extended](img/bio_extended.png) Bio Extended adds seven alternate recipes for using up all that Bio you've accumulated after finally getting Coal online. Converting this Bio into Coal for backup incase your generators pull to much or to add a little bit of flex into your chains where coal is being used for Steel or Coke and must be transported across distances - which can lead to gaps in input.
 
 Or, make use of the conversion to Biomass or Mycelia and produce more Health Hypos or Fabric for your needs.
 
@@ -30,3 +30,25 @@ Or, make use of the conversion to Biomass or Mycelia and produce more Health Hyp
 > *Ficist Pioneer 1127-B-C-#21 Reported an infestation of Mycelia like spores within an Industrial Storage Unit that was used for storing petals. Further investigation revealed a crack in the containment unit (A .00001% chance of failure that was deemed acceptable risk) of the "Hyperbolic-T Compression Chamber" power source. The energy that leaked combined with the native spores that lay dormant to accelerate their growth. Ficsit does not waste, so this was immediately published to all Pioneers for consumption along with specifications on how to create a controlled leak in the Containment source of the Ficsit Constructor.*
 
 * At what seems like a very low conversion rate, with a cycle time of two minutes, this seems like a recipe that may not be worth it. Consider however the abundance of flower petals/leaves compared to Mycelia, and how just 15 Mycelia can produce 150 Biomass, or .08 mycelia per Coal produced (if using Biocoal)
+
+## **Biomass (Bacon Agaric)**
+
+**Bacon Agaric
+
+# Milestone Unlock: Machine Sourced (Tier 5)
+
+![Machine Sourced](img/machine_sourced.png) Machine Sourced adds recipes for adding equipment into factory chains. It also adds some recipes for automating equipment production that does not have any, such as medical inhalers.
+
+Consider these recipes to be used in alternate chains of production, so any factories that are created to produce equipment for Pioneer use can continue to run in providing a source material for higher recipe chains once storage units are full. 
+
+They can also be used to simplify or reduce the footprint of a production chain, as any recipe that uses them has its number of required inputs reduced by using this alternate
+
+## Synthetic Inhaler
+**1 Rotor, 1 Coal -> 1 Medical Inhaler (2 Rotors/min, 2 Coal/min -> 2 Medical Inhalers per minute)**
+
+> *Ficsit Medical Science teams are always looking toward the cutting edge of technology and development to support  the Pioneers bravely existing on the edges of our known universe. As such, the Synthetic Inhaler has been approved for initial testing by all Pioneers more than 150 LY from HQ. Please do not attempt to report any issues with this inhaler, as the lag time for messages means by the time it is received the product has already undergone several hundred iteration changes.*
+>
+> Warning: Hsa been known to cause explosive decompression of lungs, bleeding through the eyes, ears, and nose, and occasional dizziness followed by sudden death. Use at your own risk.
+
+* This recipe adds a way to make Medical Inhalers without utilizing an bio components, opening up their use in other production chains added by this mod.
+
