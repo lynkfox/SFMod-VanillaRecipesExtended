@@ -1,17 +1,25 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
+	"Version": 0,
+	"VersionName": "0.0.1",
 	"FriendlyName": "Vanilla Recipes Extended",
 	"Description": "A collection of Vanilla style recipes to extend your factory chains.",
 	"Category": "Modding",
 	"CreatedBy": "Lynkfox",
 	"CreatedByURL": "",
-	"DocsURL": "",
+	"DocsURL": "https://github.com/lynkfox/SFMod-VanillaRecipesExtended",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
+	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"SemVersion": "0.0.1",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.3.1",
+			"Enabled": true
+		}
+	]
 }
