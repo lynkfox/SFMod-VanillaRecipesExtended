@@ -23,7 +23,7 @@ Cost: 100 Solid Biofuel
 * Alternate: BA-Growbeds (Leaves) - (Leaves -> Bacon Agaric)
 
 ### Tier 5 Milestone: Machine Sourced
-Cost: 50 Medical Inhalers, 25 Portable Miners
+Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
 * Alternate: Synthetic Inhaler - (Coal, Rotor -> Medical Inhaler)
 
 ## Changelog:
