@@ -1,8 +1,6 @@
 # Satisfactory Mod: Vanilla Recipes: Extended
 
-This mod aims to add additional recipies to Satisfactory, using only vanilla items, and doing so in a way that is balanced with existing recipes.
-
-*Want to learn more about modding Satisfactory? Check out the [docs here](https://docs.ficsit.app/satisfactory-modding/latest/index.html)
+This mod aims to add additional recipes to Satisfactory, using only vanilla items, and doing so in a way that is balanced with existing recipes.
 
 # Recipes added by this mod:
 
@@ -12,7 +10,13 @@ For a more "thematic" approach, see [this file](Recipe_Descriptions.md)
 
 # ToDo:
 
-* More Recipies!
- * Equipment used as Input: 
+* More Recipes!
+ * Equipment used as Input - Parachutes/AutoMiners/HealthHypos...
+ * Additional for basic materials through Heavy Frames that provide an alternate path of less machines but more bigger ones
+   * use more Manufactures at earlier parts in the chain:
+     * Steel/Iron/Copper in Manufacturers requiring 3 materials but less of everything to produce more
+     * Utilizing Refineries for their physical byproduct
+     * Blenders!
+     * Particle Accelerators to create more basic materials! What?
 * Move these alts into Hard-drives to be more vanilla.
- * *Since the number of harddrives is limited and there are not that many extra over alts, either add a HD recipe or find a way to add more HDs to the game...*
+ * *Since the number of hard-drives is limited and there are not that many extra over alts, either add a HD recipe or find a way to add more HDs to the game...*

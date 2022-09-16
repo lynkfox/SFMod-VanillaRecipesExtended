@@ -2,7 +2,7 @@ Math for every recipe and comparison to some similar vanilla ones can be found i
 
 # Milestone Unlock: Bio Extended (Tier 3)
 
-![Bio Extended](img\bio_extended.png)
+![Bio Extended](img/bio_extended.png)
 
 Bio Extended adds three alternate recipes for using up all that Bio you've accumulated after finally getting Coal online. Converting this Bio into Coal for backup incase your generators pull to much or to add a little bit of flex into your chains where coal is being used for Steel or Coke and must be transported across distances - which can lead to gaps in input.
 
