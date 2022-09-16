@@ -16,6 +16,9 @@ Cost: 100 Solid Biofuel
 * Alternate: M-Growbeds (Leaves) (Leaves->Mycelia)
 
 
+## Changelog:
+
+2022-09-16 - v0.0.1 - Initial Release, 4 Alternate Recipes
 
 ### Upcoming:
 
