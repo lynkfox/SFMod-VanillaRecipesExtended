@@ -34,7 +34,13 @@ Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
 
 ## Changelog:
 
+### Current Version: v0.0.3
+
 **2022-09-16 - v0.0.3** - Bugfix: Capacitor Computers actually produce Computers now.
+
+------
+### Previous Versions 
+
 **2022-09-16 - v0.0.2** 
  * Bacon Agaric recipes added to Bio: Extended
  * Machine Sourced Milestone added to Tier 5
