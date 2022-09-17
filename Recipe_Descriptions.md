@@ -44,7 +44,7 @@ Consider these recipes to be used in alternate chains of production, so any fact
 They can also be used to simplify or reduce the footprint of a production chain, as any recipe that uses them has its number of required inputs reduced by using this alternate
 
 ## Synthetic Inhaler
-**1 Rotor, 1 Coal -> 1 Medical Inhaler (2 Rotors/min, 2 Coal/min -> 2 Medical Inhalers per minute)**
+**10 Rotor, 20 Coal -> 4 Medical Inhaler (25 Rotors/min, 20 Coal/min -> 10 Medical Inhalers per minute)**
 
 > *Ficsit Medical Science teams are always looking toward the cutting edge of technology and development to support  the Pioneers bravely existing on the edges of our known universe. As such, the Synthetic Inhaler has been approved for initial testing by all Pioneers more than 150 LY from HQ. Please do not attempt to report any issues with this inhaler, as the lag time for messages means by the time it is received the product has already undergone several hundred iteration changes.*
 >
@@ -52,3 +52,18 @@ They can also be used to simplify or reduce the footprint of a production chain,
 
 * This recipe adds a way to make Medical Inhalers without utilizing an bio components, opening up their use in other production chains added by this mod.
 
+## Xeno-Zapper Conduit
+**25 Quickwire, 15 Rubber -> 1 Xeno-Zapper (50 Quickwire/min, 30 Rubber/min -> 2 Xeno-Zappers per minute)**
+
+> *The Xeno-Zapper, standard equipment for any Pioneer being deployed for the first time, contains a multiple mini-fission reactor in parallel, each powered by a micro gram of Dilithium. They have a half-life of 3212.92 standard galactic years, and are well suited for early exploration of a new planet. While not approved by Ficsit Approved Specialized Use, enterprising Pioneers on the frontier have made use of the capacitor for various other recipes. Such Pioneers have slipped into the Recipe databanks of Assemblers a version of the Xeno-Zapper that allows access to the reactor to be reached easier by other recipes. While it can be done with traditional Xeno-Zappers, those are usually hand crafted and that would be against the tenants Protection.*
+
+* This recipe adds the Xeno-Zapper to automation, opening up their use in further production chains from this mod.
+
+## Alternate: Capacitor Computers
+**10 Circuit Boards, 1 Xeno-Zapper -> 1 Computer (60 Circuit Boards/min, 6 Xeno-Zappers/min -> 6 Computers/min)**
+
+> ```There is no Recipe by this name in the Official Ficsit Approved Recipe Database```
+>
+> *Ficist Pioneers are often left to their own devices. One such Pioneer discovered a way to use the multiple mini-fusion reactors in the Xeno-Zapper to power Computers. They slipped this recipe into the Assembly subsystem and enterprising Pioneers can 'discover' it for themselves, along with a paired recipe for a Xeno-Zapper that is slightly easier for the Assembler to dissemble - It does mean quite a bit more circuit boards and other ingredients, but it can be done within an Assembler for less power and total machines*
+
+* This recipe overall costs more basic ingredients, but produces more computers per minute and requires fewer machines than some other recipes (or similar, but far less power)

@@ -8,6 +8,10 @@ I am one person with mediocre math skills. While with the help of some programmi
 
 ## Recipes added by this mod:
 
+**Total New Recipes:** 8
+**Total New Milestones:** 2
+------
+
 You can find all the recipes located and how they breakdown (with comparisons to existing Vanilla recipes) in [This Google Doc](https://docs.google.com/spreadsheets/d/1krURGQTr8L-07p3pZYBzB6UTLPTEm4AYBoCizX3Goj4/edit?usp=sharing)
 
 [Click here for a more "thematic" description](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/Recipe_Descriptions.md)
@@ -24,16 +28,24 @@ Cost: 100 Solid Biofuel
 
 ### Tier 5 Milestone: Machine Sourced
 Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
-* Alternate: Synthetic Inhaler - (Coal, Rotor -> Medical Inhaler)
+* Synthetic Inhaler - (Coal, Rotor -> Medical Inhaler)
+* Xeno-Zapper Conduit - (Quickwire, Rubber -> Xeno-Zapper)
+* Alternate: Capacitor Computers (Circuit Boards, Xeno-Zapper -> Computer)
 
 ## Changelog:
 
-2022-09-16 - v0.0.1 - Initial Release, 4 Alternate Recipes
+**2022-09-16 - v0.0.2** 
+ * Bacon Agaric recipes added to Bio: Extended
+ * Machine Sourced Milestone added to Tier 5
+ * Several Equipment Recipes added to Machine Sourced
+ * Fixed some typos and naming patterns.
+  
+**2022-09-16 - v0.0.1** - Initial Release, 4 Alternate Recipes
 
 ### Upcoming:
 
 * More Recipes!
- * **Machine Sourced** Equipment used as Input - Parachutes/Portable Miners/Medical Inhalers...
+ * **Machine Sourced** Equipment used as Input - Parachutes/Portable Miners/Medical Inhalers, reducing footprints of other recipes.
  * **More Power More Output** Use higher tier machines to produce lower tier materials, at a cost of power for far better output
  * **Pay for the Skip** Use lower tier machines to produce higher tier materials, at a cost of higher input materials and slightly lower outputs (but saving a lot of power)
  * **The Project** Use Space Elevator Project Parts for production of Medium to High tier items
