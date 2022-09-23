@@ -8,7 +8,7 @@ I am one person with mediocre math skills. While with the help of some programmi
 
 ## Recipes added by this mod:
 
-**Total New Recipes:** 8
+**Total New Recipes:** 13
 **Total New Milestones:** 2
 ------
 
@@ -22,42 +22,52 @@ Cost: 100 Solid Biofuel
 * Alternate: PressBoard - (Leaves -> Wood)
 * Alternate: M-Growbeds - (Petals)  (Petals -> Mycelia)
 * Alternate: M-Growbeds - (Leaves) (Leaves -> Mycelia)
-* Alternate: Biomass (Bacon Agaric) - (Bacon Agaric -> Biomass)
+* Biomass (Bacon Agaric) - (Bacon Agaric -> Biomass)
 * Alternate: BA-Growbeds (Petals) - (Petals -> Bacon Agaric)
 * Alternate: BA-Growbeds (Leaves) - (Leaves -> Bacon Agaric)
+* Alternate: Stinger-Silk - (Stinger Remains -> Fabric)
 
 ### Tier 5 Milestone: Machine Sourced
 Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
 * Synthetic Inhaler - (Coal, Rotor -> Medical Inhaler)
 * Xeno-Zapper Conduit - (Quickwire, Rubber -> Xeno-Zapper)
+* Pre-Packaged Parachutes - (Fabric, Cable -> Parachute)
 * Alternate: Capacitor Computers (Circuit Boards, Xeno-Zapper -> Computer)
+* Alternate - Silk Reinforced Frames (Parachute, Modular Frames -> Heavy Modular Frames)
 
 ## Changelog:
 
-### Current Version: v0.0.3
+### Current Version: v1.1.0
 
-**2022-09-16 - v0.0.3** - Bugfix: Capacitor Computers actually produce Computers now.
+**2022-09-23 - v1.1.0** - Parachutes, Stinger Silk, and Silk Reinforced HMF Recipes
+  * Added Stinger-Remains -> Fabric
+  * Added Automation for Parachutes
+  * Added HMF Alternate taking Modular Frames and Parachutes, reducing power consumption and machine complexity at the cost of additional modular frames.
+  * Formatting and Spelling corrections in Mod and Documentation
+  * Adjusted versioning to 1.1.0 - Machine Sourced. (1.0.0 helps with SMR and SMM systems, x.1.x is for all things Machined Source milestone.)
+
 
 ------
 ### Previous Versions 
+**2022-09-16 - v0.0.3** - Bugfix: Capacitor Computers actually produce Computers now.
 
 **2022-09-16 - v0.0.2** 
- * Bacon Agaric recipes added to Bio: Extended
- * Machine Sourced Milestone added to Tier 5
- * Several Equipment Recipes added to Machine Sourced
- * Fixed some typos and naming patterns.
+  * Bacon Agaric recipes added to Bio: Extended
+  * Machine Sourced Milestone added to Tier 5
+  * Several Equipment Recipes added to Machine Sourced
+  * Fixed some typos and naming patterns.
   
 **2022-09-16 - v0.0.1** - Initial Release, 4 Alternate Recipes
 
 ### Upcoming:
 
 * More Recipes!
- * **Machine Sourced** Equipment used as Input - Parachutes/Portable Miners/Medical Inhalers, reducing footprints of other recipes.
- * **More Power More Output** Use higher tier machines to produce lower tier materials, at a cost of power for far better output
- * **Pay for the Skip** Use lower tier machines to produce higher tier materials, at a cost of higher input materials and slightly lower outputs (but saving a lot of power)
- * **The Project** Use Space Elevator Project Parts for production of Medium to High tier items
- * **Horizons** Use SAM Ore, Sommersloops, Mercer Spheres, Slugs, and Alien Protein for production (along with recipes to "produce" said items)
+  * **Machine Sourced** Equipment used as Input - Parachutes/Portable Miners/Medical Inhalers, reducing footprints of other recipes.
+  * **More Power More Output** Use higher tier machines to produce lower tier materials, at a cost of power for far better output
+  * **Pay for the Skip** Use lower tier machines to produce higher tier materials, at a cost of higher input materials and slightly lower outputs (but saving a lot of power)
+  * **The Project** Use Space Elevator Project Parts for production of Medium to High tier items
+  * **Horizons** Use SAM Ore, Sommersloops, Mercer Spheres, Slugs, and Alien Protein for production (along with recipes to "produce" said items)
 * Move these alts into Hard-drives to be more vanilla.
- * *Since the number of hard-drives is limited and there are not that many extra over alts, either add a HD recipe or find a way to add more HDs to the game...*
+  * *Since the number of hard-drives is limited and there are not that many extra over alts, either add a HD recipe or find a way to add more HDs to the game...*
 * Add MAM tree nodes for certain recipes (Horizons mostly)
 * Balancing - always balancing.
