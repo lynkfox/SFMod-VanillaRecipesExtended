@@ -12,7 +12,7 @@ I am one person with mediocre math skills. While with the help of some programmi
 **Total New Milestones:** 2
 ------
 
-You can find all the recipes located and how they breakdown (and similar breakdowns for some vanilla versions) in [Documentation/recipe_comparisons](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/Documentation/recipe_comparisons)
+You can find all the recipes located and how they breakdown (and similar breakdowns for some vanilla versions) in [Recipe Comparisons](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/Documentation/recipe_comparisons)
 
 [Click here for a more "thematic" description](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/Recipe_Descriptions.md)
 
