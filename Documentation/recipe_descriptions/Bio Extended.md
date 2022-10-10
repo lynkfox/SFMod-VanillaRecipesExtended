@@ -1,6 +1,6 @@
 # Milestone Unlock: Bio Extended (Tier 3)
 
-![Bio Extended](img/bio_extended.png) Bio Extended adds alternate recipes for using up all that Bio you've accumulated after finally getting Coal online. Converting this Bio into Coal for backup incase your generators pull to much or to add a little bit of flex into your chains where coal is being used for Steel or Coke and must be transported across distances - which can lead to gaps in input.
+![Bio Extended](../../img/bio_extended.png) Bio Extended adds alternate recipes for using up all that Bio you've accumulated after finally getting Coal online. Converting this Bio into Coal for backup incase your generators pull to much or to add a little bit of flex into your chains where coal is being used for Steel or Coke and must be transported across distances - which can lead to gaps in input.
 
 Or, make use of the conversion to Biomass or to Mycelia and produce more Health Hypos or Fabric for your needs.
 

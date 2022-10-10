@@ -1,7 +1,7 @@
 
 # Milestone Unlock: Machine Sourced (Tier 5)
 
-![Machine Sourced](img/machine_sourced.png) Machine Sourced adds recipes for adding equipment into factory chains. It also adds some recipes for automating equipment production that does not have any, such as medical inhalers.
+![Machine Sourced](../../img/machine_sourced.png) Machine Sourced adds recipes for adding equipment into factory chains. It also adds some recipes for automating equipment production that does not have any, such as medical inhalers.
 
 Consider these recipes to be used in alternate chains of production, so any factories that are created to produce equipment for Pioneer use can continue to run in providing a source material for higher recipe chains once storage units are full. 
 
