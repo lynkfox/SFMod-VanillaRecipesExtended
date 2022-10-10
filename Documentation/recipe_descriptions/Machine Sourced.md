@@ -57,7 +57,8 @@ They can also be used to simplify or reduce the footprint of a production chain,
 ## Alternate: Primitive Adaptive Control Units
 * **1 Portable Miner, 2 Computers, 6 AI Limiters -> 1 Adaptive Control Unit (2 Portable Miner/min, 3 Computers/min, 12 AI Limiters/min -> 1 Adaptive Control Unit/min)**
 * *Manufacturer: Cycle Time: 120 seconds -> 1 cycle per minute*
-* [Math](../../Documentation/recipe_comparisons/machine_sourced/adaptive_control_unit/)
+* [Math for just modded recipe](../../Documentation/recipe_comparisons/machine_sourced/adaptive_control_unit/adaptive_control_unit_modded.md)
+* [Other Maths](../../Documentation/recipe_comparisons/machine_sourced/adaptive_control_unit/)
   
 > *Previous incarnations of* **The Project** *had less sophisticated requirements and could easily make do with sub-par parts. While this output is not ideal for current situations, Pioneers finding themselves in situations where power is at a premium can make use of this less efficient recipe to gain a savings in power over all, at the cost of some additional raw resources*
 
