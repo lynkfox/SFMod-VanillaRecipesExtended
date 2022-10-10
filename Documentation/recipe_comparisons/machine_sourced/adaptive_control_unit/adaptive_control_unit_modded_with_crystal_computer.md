@@ -1,4 +1,4 @@
-Based on Recipes generated on 2022-10-10 16:18:00UTC
+Based on Recipes generated on 2022-10-10 20:45:52UTC
 # Project Part: Adaptive Control Unit *(1.0/min)* takes:
 #### using VRE-Machine Sourced: Primitive Adaptive Control Unit:
 > *  Portable Miner: 1/min
@@ -37,27 +37,27 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
-* "Alternate: Crystal Computer" for Computer
-* "Standard: Iron Ingot" for Iron Ingot
-* "Standard: Steel Pipe" for Steel Pipe
-* "Standard: Quartz Crystal" for Quartz Crystal
-* "Standard: Plastic" for Plastic
 * "Standard: AI Limiter" for AI Limiter
-* "Standard: Motor" for Motor
-* "Standard: Copper Ingot" for Copper Ingot
-* "Standard: Cable" for Cable
-* "Standard: Caterium Ingot" for Caterium Ingot
-* "Standard: Steel Ingot" for Steel Ingot
-* "Standard: Wire" for Wire
-* "Standard: Iron Rod" for Iron Rod
-* "Standard: Copper Sheet" for Copper Sheet
-* "Standard: Quickwire" for Quickwire
-* "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
-* "Standard: Stator" for Stator
-* "Standard: Iron Plate" for Iron Plate
-* "Standard: Screw" for Screws
-* "Alternate: Automated Miner" for Portable Miner
-* "Standard: Crystal Oscillator" for Crystal Oscillator
-* "Standard: Circuit Board" for Circuit Board
-* "Standard: Rotor" for Rotor
 * "VRE-Machine Sourced: Primitive Adaptive Control Unit" for Project Part: Adaptive Control Unit
+* "Standard: Cable" for Cable
+* "Standard: Stator" for Stator
+* "Standard: Motor" for Motor
+* "Standard: Iron Rod" for Iron Rod
+* "Standard: Plastic" for Plastic
+* "Standard: Steel Ingot" for Steel Ingot
+* "Alternate: Automated Miner" for Portable Miner
+* "Standard: Steel Pipe" for Steel Pipe
+* "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
+* "Standard: Quartz Crystal" for Quartz Crystal
+* "Standard: Copper Sheet" for Copper Sheet
+* "Standard: Circuit Board" for Circuit Board
+* "Standard: Iron Ingot" for Iron Ingot
+* "Standard: Caterium Ingot" for Caterium Ingot
+* "Standard: Iron Plate" for Iron Plate
+* "Standard: Copper Ingot" for Copper Ingot
+* "Standard: Crystal Oscillator" for Crystal Oscillator
+* "Standard: Quickwire" for Quickwire
+* "Alternate: Crystal Computer" for Computer
+* "Standard: Rotor" for Rotor
+* "Standard: Wire" for Wire
+* "Standard: Screw" for Screws

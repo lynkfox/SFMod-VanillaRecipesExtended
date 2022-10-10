@@ -1,4 +1,4 @@
-Based on Recipes generated on 2022-10-10 16:18:00UTC
+Based on Recipes generated on 2022-10-10 20:45:52UTC
 # Project Part: Adaptive Control Unit *(1.0/min)* takes:
 #### using Standard: Adaptive Control Unit:
 > *  Project Part: Automated Wiring: 7.5/min
@@ -37,25 +37,25 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
+* "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
+* "Standard: Steel Ingot" for Steel Ingot
+* "Standard: Automated Wiring" for Project Part: Automated Wiring
+* "Standard: Screw" for Screws
+* "Standard: Steel Pipe" for Steel Pipe
+* "Standard: Iron Ingot" for Iron Ingot
 * "Standard: Computer" for Computer
+* "Standard: Modular Frame" for Modular Frame
+* "Standard: Circuit Board" for Circuit Board
+* "Standard: Copper Sheet" for Copper Sheet
+* "Standard: Iron Plate" for Iron Plate
+* "Standard: Cable" for Cable
+* "Standard: Copper Ingot" for Copper Ingot
+* "Standard: Stator" for Stator
+* "Standard: Heavy Modular Frame" for Heavy Modular Frame
+* "Standard: Encased Industrial Beam" for Encased Industrial Beam
 * "Standard: Concrete" for Concrete
 * "Standard: Adaptive Control Unit" for Project Part: Adaptive Control Unit
-* "Standard: Circuit Board" for Circuit Board
-* "Standard: Encased Industrial Beam" for Encased Industrial Beam
-* "Standard: Modular Frame" for Modular Frame
-* "Standard: Screw" for Screws
-* "Standard: Copper Ingot" for Copper Ingot
-* "Standard: Automated Wiring" for Project Part: Automated Wiring
-* "Standard: Plastic" for Plastic
-* "Standard: Steel Ingot" for Steel Ingot
-* "Standard: Steel Beam" for Steel Beam
-* "Standard: Stator" for Stator
-* "Standard: Iron Plate" for Iron Plate
 * "Standard: Iron Rod" for Iron Rod
-* "Standard: Copper Sheet" for Copper Sheet
-* "Standard: Steel Pipe" for Steel Pipe
-* "Standard: Cable" for Cable
-* "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
 * "Standard: Wire" for Wire
-* "Standard: Heavy Modular Frame" for Heavy Modular Frame
-* "Standard: Iron Ingot" for Iron Ingot
+* "Standard: Steel Beam" for Steel Beam
+* "Standard: Plastic" for Plastic

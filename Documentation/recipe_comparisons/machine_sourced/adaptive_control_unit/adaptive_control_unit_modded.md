@@ -1,4 +1,4 @@
-Based on Recipes generated on 2022-10-10 16:18:00UTC
+Based on Recipes generated on 2022-10-10 20:45:52UTC
 # Project Part: Adaptive Control Unit *(1.0/min)* takes:
 #### using VRE-Machine Sourced: Primitive Adaptive Control Unit:
 > *  Portable Miner: 1/min
@@ -36,24 +36,24 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
-* "Standard: Copper Ingot" for Copper Ingot
-* "Standard: Caterium Ingot" for Caterium Ingot
-* "Standard: Steel Pipe" for Steel Pipe
-* "Standard: Circuit Board" for Circuit Board
-* "Standard: Screw" for Screws
+* "Standard: Quickwire" for Quickwire
 * "Standard: Cable" for Cable
 * "VRE-Machine Sourced: Primitive Adaptive Control Unit" for Project Part: Adaptive Control Unit
-* "Standard: Steel Ingot" for Steel Ingot
-* "Alternate: Automated Miner" for Portable Miner
-* "Standard: Iron Rod" for Iron Rod
-* "Standard: Quickwire" for Quickwire
-* "Standard: AI Limiter" for AI Limiter
-* "Standard: Stator" for Stator
-* "Standard: Copper Sheet" for Copper Sheet
-* "Standard: Rotor" for Rotor
-* "Standard: Motor" for Motor
-* "Standard: Computer" for Computer
-* "Standard: Wire" for Wire
-* "Standard: Plastic" for Plastic
 * "Standard: Iron Plate" for Iron Plate
+* "Standard: Plastic" for Plastic
+* "Standard: Copper Sheet" for Copper Sheet
 * "Standard: Iron Ingot" for Iron Ingot
+* "Standard: AI Limiter" for AI Limiter
+* "Standard: Caterium Ingot" for Caterium Ingot
+* "Standard: Steel Ingot" for Steel Ingot
+* "Standard: Computer" for Computer
+* "Alternate: Automated Miner" for Portable Miner
+* "Standard: Circuit Board" for Circuit Board
+* "Standard: Motor" for Motor
+* "Standard: Wire" for Wire
+* "Standard: Stator" for Stator
+* "Standard: Iron Rod" for Iron Rod
+* "Standard: Steel Pipe" for Steel Pipe
+* "Standard: Copper Ingot" for Copper Ingot
+* "Standard: Screw" for Screws
+* "Standard: Rotor" for Rotor
