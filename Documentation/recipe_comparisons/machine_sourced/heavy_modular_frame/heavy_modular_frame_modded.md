@@ -1,4 +1,4 @@
-Based on Recipes generated on 2022-10-10 16:18:00UTC
+Based on Recipes generated on 2022-10-10 20:45:52UTC
 # Heavy Modular Frame *(1.0/min)* takes:
 #### using VRE-Machine Sourced: Silk-Reinforced Frames:
 > *  Parachute: 2.5/min
@@ -6,23 +6,24 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 
 
 ## Total Power
-*  177 MW
+*  218 MW
 
 ## Machines
 *(25 total machines)*
 * Smelter: 7
-* Constructor: 11
-* Assembler: 7
+* Constructor: 10
+* Assembler: 6
+* Refinery: 2
 
 ## Raw Components:
 * Copper Ore: 2.5/min
 * Iron Ore: 132/min
-* Leaves: 50/min
-* Mycelia: 5/min
+* Oil: 369.23 m^3/min
+* Water: 500 m^3/min
 
 ## Total Area (give or take)
-*  2308.0 m^2
-*(or about 39 foundations.)*
+*  2478.0 m^2
+*(or about 42 foundations.)*
 
 ## Longest Product Chain
 *  6.0
@@ -31,16 +32,16 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
-* "Standard: Iron Plate" for Iron Plate
-* "Standard: Copper Ingot" for Copper Ingot
-* "Standard: Iron Ingot" for Iron Ingot
 * "Standard: Screw" for Screws
-* "VRE-Machine Sourced: Pre-Packaged Parachutes" for Parachute
-* "Standard: Wire" for Wire
-* "Standard: Cable" for Cable
-* "Standard: Modular Frame" for Modular Frame
-* "VRE-Machine Sourced: Silk-Reinforced Frames" for Heavy Modular Frame
-* "Standard: Biomass *(Leaves)*" for Biomass
+* "Alternate: Polymer Resin" for Polymer Resin
 * "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
-* "Standard: Fabric" for Fabric
 * "Standard: Iron Rod" for Iron Rod
+* "Standard: Copper Ingot" for Copper Ingot
+* "Alternate: Polyester Fabric" for Fabric
+* "Standard: Cable" for Cable
+* "VRE-Machine Sourced: Pre-Packaged Parachutes" for Parachute
+* "Standard: Modular Frame" for Modular Frame
+* "Standard: Wire" for Wire
+* "Standard: Iron Plate" for Iron Plate
+* "Standard: Iron Ingot" for Iron Ingot
+* "VRE-Machine Sourced: Silk-Reinforced Frames" for Heavy Modular Frame
