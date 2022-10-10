@@ -38,6 +38,8 @@ They can also be used to simplify or reduce the footprint of a production chain,
 ## Alternate: Capacitor Computers
 * **10 Circuit Boards, 1 Xeno-Zapper -> 1 Computer (60 Circuit Boards/min, 6 Xeno-Zappers/min -> 6 Computers/min)**
 * *Assembler: Cycle Time: 10 seconds -> 6 cycles per minute* 
+* [Math for just modded recipe](../../Documentation/recipe_comparisons/machine_sourced/computer/computer_modded.md)
+* [Other Maths](../../Documentation/recipe_comparisons/machine_sourced/computer/)
 
 > ```There is no Recipe by that name in the Official Ficsit Approved Recipe Database```
 
@@ -49,6 +51,8 @@ They can also be used to simplify or reduce the footprint of a production chain,
 ## Alternate: Silk Reinforced Frames
 * **20 Parachutes, 11 Modular Frames -> 2 Heavy Modular Frames (30 Parachutes/min, 9 Modular Frames/min -> 3 Heavy Modular Frames/min)**
 * *Assembler: Cycle Time: 40 seconds -> 1.5 cycles per minute*
+* [Math for just modded recipe](../../Documentation/recipe_comparisons/machine_sourced/heavy_modular_frame/heavy_modular_frame_modded.md)
+* [Other Maths](../../Documentation/recipe_comparisons/machine_sourced/heavy_modular_frame/)
 
 > *Researchers on  Delta Herculis B have discovered a way to procure silk like fabric substances from any Arachnid-Like fauna in the known universe. As such, the applications due to the intense tensile strength of such creatures are vast. Ficsit has seen fit to approve the recipe for Silk Reinforced Frames to aid in your construction efforts of larger and more powerful machines*
 
