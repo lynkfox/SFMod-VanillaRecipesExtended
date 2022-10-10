@@ -39,28 +39,28 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
-* Standard: Steel Pipe" for Steel Pipe
-* Standard: Modular Frame" for Modular Frame
-* Alternate: Polymer Resin" for Polymer Resin
-* Standard: Iron Rod" for Iron Rod
-* Standard: Crystal Oscillator" for Crystal Oscillator
-* Standard: Cable" for Cable
-* Standard: Encased Industrial Beam" for Encased Industrial Beam
-* Standard: Reinforced Iron Plate" for Reinforced Iron Plate
-* Standard: Residual Plastic" for Plastic
-* Standard: Quartz Crystal" for Quartz Crystal
-* Standard: Iron Ingot" for Iron Ingot
-* Standard: Screw" for Screws
-* Alternate: Crystal Computer" for Computer
-* Standard: Wire" for Wire
-* Standard: Heavy Modular Frame" for Heavy Modular Frame
-* Standard: Iron Plate" for Iron Plate
-* Standard: Steel Beam" for Steel Beam
-* Standard: Automated Wiring" for Project Part: Automated Wiring
-* Standard: Copper Ingot" for Copper Ingot
-* Standard: Adaptive Control Unit" for Project Part: Adaptive Control Unit
-* Standard: Steel Ingot" for Steel Ingot
-* Standard: Stator" for Stator
-* Standard: Circuit Board" for Circuit Board
-* Standard: Concrete" for Concrete
-* Standard: Copper Sheet" for Copper Sheet
+* "Standard: Steel Pipe" for Steel Pipe
+* "Standard: Modular Frame" for Modular Frame
+* "Alternate: Polymer Resin" for Polymer Resin
+* "Standard: Iron Rod" for Iron Rod
+* "Standard: Crystal Oscillator" for Crystal Oscillator
+* "Standard: Cable" for Cable
+* "Standard: Encased Industrial Beam" for Encased Industrial Beam
+* "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
+* "Standard: Residual Plastic" for Plastic
+* "Standard: Quartz Crystal" for Quartz Crystal
+* "Standard: Iron Ingot" for Iron Ingot
+* "Standard: Screw" for Screws
+* "Alternate: Crystal Computer" for Computer
+* "Standard: Wire" for Wire
+* "Standard: Heavy Modular Frame" for Heavy Modular Frame
+* "Standard: Iron Plate" for Iron Plate
+* "Standard: Steel Beam" for Steel Beam
+* "Standard: Automated Wiring" for Project Part: Automated Wiring
+* "Standard: Copper Ingot" for Copper Ingot
+* "Standard: Adaptive Control Unit" for Project Part: Adaptive Control Unit
+* "Standard: Steel Ingot" for Steel Ingot
+* "Standard: Stator" for Stator
+* "Standard: Circuit Board" for Circuit Board
+* "Standard: Concrete" for Concrete
+* "Standard: Copper Sheet" for Copper Sheet

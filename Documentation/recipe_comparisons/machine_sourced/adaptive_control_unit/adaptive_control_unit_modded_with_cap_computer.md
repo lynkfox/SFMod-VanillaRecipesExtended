@@ -37,26 +37,26 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
-* Standard: Wire" for Wire
-* Standard: Rotor" for Rotor
-* Standard: Screw" for Screws
-* Standard: Plastic" for Plastic
-* Standard: Fuel" for Polymer Resin
-* Standard: Iron Rod" for Iron Rod
-* Standard: Steel Ingot" for Steel Ingot
-* Standard: Iron Ingot" for Iron Ingot
-* Standard: Iron Plate" for Iron Plate
-* VRE-Machine Sourced: Xeno-Zapper Conduit" for Xeno-Zapper
-* Standard: Copper Ingot" for Copper Ingot
-* Standard: Residual Rubber" for Rubber
-* Standard: Caterium Ingot" for Caterium Ingot
-* VRE-Machine Sourced: Capacitor Computers" for Computer
-* Standard: Circuit Board" for Circuit Board
-* Standard: Motor" for Motor
-* Standard: Quickwire" for Quickwire
-* VRE-Machine Sourced: Primitive Adaptive Control Unit" for Project Part: Adaptive Control Unit
-* Standard: Stator" for Stator
-* Standard: Steel Pipe" for Steel Pipe
-* Alternate: Automated Miner" for Portable Miner
-* Standard: AI Limiter" for AI Limiter
-* Standard: Copper Sheet" for Copper Sheet
+* "Standard: Wire" for Wire
+* "Standard: Rotor" for Rotor
+* "Standard: Screw" for Screws
+* "Standard: Plastic" for Plastic
+* "Standard: Fuel" for Polymer Resin
+* "Standard: Iron Rod" for Iron Rod
+* "Standard: Steel Ingot" for Steel Ingot
+* "Standard: Iron Ingot" for Iron Ingot
+* "Standard: Iron Plate" for Iron Plate
+* "VRE-Machine Sourced: Xeno-Zapper Conduit" for Xeno-Zapper
+* "Standard: Copper Ingot" for Copper Ingot
+* "Standard: Residual Rubber" for Rubber
+* "Standard: Caterium Ingot" for Caterium Ingot
+* "VRE-Machine Sourced: Capacitor Computers" for Computer
+* "Standard: Circuit Board" for Circuit Board
+* "Standard: Motor" for Motor
+* "Standard: Quickwire" for Quickwire
+* "VRE-Machine Sourced: Primitive Adaptive Control Unit" for Project Part: Adaptive Control Unit
+* "Standard: Stator" for Stator
+* "Standard: Steel Pipe" for Steel Pipe
+* "Alternate: Automated Miner" for Portable Miner
+* "Standard: AI Limiter" for AI Limiter
+* "Standard: Copper Sheet" for Copper Sheet

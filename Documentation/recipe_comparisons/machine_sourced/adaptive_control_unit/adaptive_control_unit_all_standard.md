@@ -37,25 +37,25 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
-* Standard: Computer" for Computer
-* Standard: Concrete" for Concrete
-* Standard: Adaptive Control Unit" for Project Part: Adaptive Control Unit
-* Standard: Circuit Board" for Circuit Board
-* Standard: Encased Industrial Beam" for Encased Industrial Beam
-* Standard: Modular Frame" for Modular Frame
-* Standard: Screw" for Screws
-* Standard: Copper Ingot" for Copper Ingot
-* Standard: Automated Wiring" for Project Part: Automated Wiring
-* Standard: Plastic" for Plastic
-* Standard: Steel Ingot" for Steel Ingot
-* Standard: Steel Beam" for Steel Beam
-* Standard: Stator" for Stator
-* Standard: Iron Plate" for Iron Plate
-* Standard: Iron Rod" for Iron Rod
-* Standard: Copper Sheet" for Copper Sheet
-* Standard: Steel Pipe" for Steel Pipe
-* Standard: Cable" for Cable
-* Standard: Reinforced Iron Plate" for Reinforced Iron Plate
-* Standard: Wire" for Wire
-* Standard: Heavy Modular Frame" for Heavy Modular Frame
-* Standard: Iron Ingot" for Iron Ingot
+* "Standard: Computer" for Computer
+* "Standard: Concrete" for Concrete
+* "Standard: Adaptive Control Unit" for Project Part: Adaptive Control Unit
+* "Standard: Circuit Board" for Circuit Board
+* "Standard: Encased Industrial Beam" for Encased Industrial Beam
+* "Standard: Modular Frame" for Modular Frame
+* "Standard: Screw" for Screws
+* "Standard: Copper Ingot" for Copper Ingot
+* "Standard: Automated Wiring" for Project Part: Automated Wiring
+* "Standard: Plastic" for Plastic
+* "Standard: Steel Ingot" for Steel Ingot
+* "Standard: Steel Beam" for Steel Beam
+* "Standard: Stator" for Stator
+* "Standard: Iron Plate" for Iron Plate
+* "Standard: Iron Rod" for Iron Rod
+* "Standard: Copper Sheet" for Copper Sheet
+* "Standard: Steel Pipe" for Steel Pipe
+* "Standard: Cable" for Cable
+* "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
+* "Standard: Wire" for Wire
+* "Standard: Heavy Modular Frame" for Heavy Modular Frame
+* "Standard: Iron Ingot" for Iron Ingot

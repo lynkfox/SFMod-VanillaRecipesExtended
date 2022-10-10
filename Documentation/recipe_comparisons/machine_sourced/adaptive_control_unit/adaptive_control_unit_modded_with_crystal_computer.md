@@ -37,27 +37,27 @@ Based on Recipes generated on 2022-10-10 16:18:00UTC
 ------
 
 ## Making use of:
-* Alternate: Crystal Computer" for Computer
-* Standard: Iron Ingot" for Iron Ingot
-* Standard: Steel Pipe" for Steel Pipe
-* Standard: Quartz Crystal" for Quartz Crystal
-* Standard: Plastic" for Plastic
-* Standard: AI Limiter" for AI Limiter
-* Standard: Motor" for Motor
-* Standard: Copper Ingot" for Copper Ingot
-* Standard: Cable" for Cable
-* Standard: Caterium Ingot" for Caterium Ingot
-* Standard: Steel Ingot" for Steel Ingot
-* Standard: Wire" for Wire
-* Standard: Iron Rod" for Iron Rod
-* Standard: Copper Sheet" for Copper Sheet
-* Standard: Quickwire" for Quickwire
-* Standard: Reinforced Iron Plate" for Reinforced Iron Plate
-* Standard: Stator" for Stator
-* Standard: Iron Plate" for Iron Plate
-* Standard: Screw" for Screws
-* Alternate: Automated Miner" for Portable Miner
-* Standard: Crystal Oscillator" for Crystal Oscillator
-* Standard: Circuit Board" for Circuit Board
-* Standard: Rotor" for Rotor
-* VRE-Machine Sourced: Primitive Adaptive Control Unit" for Project Part: Adaptive Control Unit
+* "Alternate: Crystal Computer" for Computer
+* "Standard: Iron Ingot" for Iron Ingot
+* "Standard: Steel Pipe" for Steel Pipe
+* "Standard: Quartz Crystal" for Quartz Crystal
+* "Standard: Plastic" for Plastic
+* "Standard: AI Limiter" for AI Limiter
+* "Standard: Motor" for Motor
+* "Standard: Copper Ingot" for Copper Ingot
+* "Standard: Cable" for Cable
+* "Standard: Caterium Ingot" for Caterium Ingot
+* "Standard: Steel Ingot" for Steel Ingot
+* "Standard: Wire" for Wire
+* "Standard: Iron Rod" for Iron Rod
+* "Standard: Copper Sheet" for Copper Sheet
+* "Standard: Quickwire" for Quickwire
+* "Standard: Reinforced Iron Plate" for Reinforced Iron Plate
+* "Standard: Stator" for Stator
+* "Standard: Iron Plate" for Iron Plate
+* "Standard: Screw" for Screws
+* "Alternate: Automated Miner" for Portable Miner
+* "Standard: Crystal Oscillator" for Crystal Oscillator
+* "Standard: Circuit Board" for Circuit Board
+* "Standard: Rotor" for Rotor
+* "VRE-Machine Sourced: Primitive Adaptive Control Unit" for Project Part: Adaptive Control Unit
