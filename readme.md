@@ -12,7 +12,7 @@ I am one person with mediocre math skills. While with the help of some programmi
 **Total New Milestones:** 2
 ------
 
-You can find all the recipes located and how they breakdown (with comparisons to existing Vanilla recipes) in [This Google Doc](https://docs.google.com/spreadsheets/d/1krURGQTr8L-07p3pZYBzB6UTLPTEm4AYBoCizX3Goj4/edit?usp=sharing)
+You can find all the recipes located and how they breakdown (and similar breakdowns for some vanilla versions) in [Documentation/recipe_comparisons](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/Documentation/recipe_comparisons)
 
 [Click here for a more "thematic" description](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/Recipe_Descriptions.md)
 
@@ -33,31 +33,22 @@ Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
 * Xeno-Zapper Conduit - (Quickwire, Rubber -> Xeno-Zapper)
 * Pre-Packaged Parachutes - (Fabric, Cable -> Parachute)
 * Alternate: Capacitor Computers (Circuit Boards, Xeno-Zapper -> Computer)
-* Alternate - Silk Reinforced Frames (Parachute, Modular Frames -> Heavy Modular Frames)
+* Alternate: Silk Reinforced Frames (Parachute, Modular Frames -> Heavy Modular Frames)
+* Alternate: Primitive Adaptive Control Unit (Portable Miner, Computer, AI Limiter -> Adaptive Control Unit)
 
 ## Changelog:
 
-### Current Version: v1.1.0
-
-**2022-09-23 - v1.1.0** - Parachutes, Stinger Silk, and Silk Reinforced HMF Recipes
-  * Added Stinger-Remains -> Fabric
-  * Added Automation for Parachutes
-  * Added HMF Alternate taking Modular Frames and Parachutes, reducing power consumption and machine complexity at the cost of additional modular frames.
-  * Formatting and Spelling corrections in Mod and Documentation
-  * Adjusted versioning to 1.1.0 - Machine Sourced. (1.0.0 helps with SMR and SMM systems, x.1.x is for all things Machined Source milestone.)
+### Current Version: v1.1.2 
+**2022-10-10 -v1.1.1** - More Machine Sourced Recipes
+* Primitive Adaptive Control Unit, using Portable miner
 
 
 ------
 ### Previous Versions 
-**2022-09-16 - v0.0.3** - Bugfix: Capacitor Computers actually produce Computers now.
+**2022-10-10 -v1.1.1** - Rebalanced Silk-Reinforced Frames, as they were simply objectively better than all alternatives.
+* Silk-Reinforced Frames balanced, now require 11 Modular Frames per/cycle
 
-**2022-09-16 - v0.0.2** 
-  * Bacon Agaric recipes added to Bio: Extended
-  * Machine Sourced Milestone added to Tier 5
-  * Several Equipment Recipes added to Machine Sourced
-  * Fixed some typos and naming patterns.
-  
-**2022-09-16 - v0.0.1** - Initial Release, 4 Alternate Recipes
+* [See the full changelog here](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/changelog.md)
 
 ### Upcoming:
 

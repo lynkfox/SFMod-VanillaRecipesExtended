@@ -47,9 +47,18 @@ They can also be used to simplify or reduce the footprint of a production chain,
 * This recipe overall costs more basic ingredients, but produces more computers per minute and requires fewer machines than some other recipes (or similar, but far less power)
 
 ## Alternate: Silk Reinforced Frames
-* **20 Parachutes, 6 Modular Frames -> 2 Heavy Modular Frames (30 Parachutes/min, 9 Modular Frames/min -> 3 Heavy Modular Frames/min)**
+* **20 Parachutes, 11 Modular Frames -> 2 Heavy Modular Frames (30 Parachutes/min, 9 Modular Frames/min -> 3 Heavy Modular Frames/min)**
 * *Assembler: Cycle Time: 40 seconds -> 1.5 cycles per minute*
 
 > *Researchers on  Delta Herculis B have discovered a way to procure silk like fabric substances from any Arachnid-Like fauna in the known universe. As such, the applications due to the intense tensile strength of such creatures are vast. Ficsit has seen fit to approve the recipe for Silk Reinforced Frames to aid in your construction efforts of larger and more powerful machines*
 
-* Reduces the need for a Manufacturer for Heavy Modular Frames, leading to significantly less power draw to produce the same amount of Heavy Modular Frames, at a cost of a few additional Modular Frames per HMF and a different production chain for fabric.
+* Reduces the need for a Manufacturer for Heavy Modular Frames, leading to significantly less power draw to produce the same amount of Heavy Modular Frames, at a cost of a few additional Modular Frames per HMF and a different production chain for fabric (which adds oil into the mix if going completely automated)
+
+## Alternate: Primitive Adaptive Control Units
+* **1 Portable Miner, 2 Computers, 6 AI Limiters -> 1 Adaptive Control Unit (2 Portable Miner/min, 3 Computers/min, 12 AI Limiters/min -> 1 Adaptive Control Unit/min)**
+* *Manufacturer: Cycle Time: 120 seconds -> 1 cycle per minute*
+* [Math](../../Documentation/recipe_comparisons/machine_sourced/adaptive_control_unit/)
+  
+> *Previous incarnations of* **The Project** *had less sophisticated requirements and could easily make do with sub-par parts. While this output is not ideal for current situations, Pioneers finding themselves in situations where power is at a premium can make use of this less efficient recipe to gain a savings in power over all, at the cost of some additional raw resources*
+
+* Reduces the total number of machines by removing the Automated Wiring and HMF components. However, if using only standard recipes, requires a significant increase in Oil to produce the plastic and the addition of Caterium.
