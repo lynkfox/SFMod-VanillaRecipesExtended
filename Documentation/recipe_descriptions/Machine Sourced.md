@@ -78,13 +78,13 @@ They can also be used to simplify or reduce the footprint of a production chain,
 
 
 ## Alternate: Self-Orienting Wiring Cluster
-* **1 Object Scanner, 50 Quickwire -> 1 Automated Wiring (2 Object Scanner/min, 100 Quickwire/min -> 2 Automated Wiring/min)**
-* *Assembler: Cycle TIme: 30 seconds -> 2 cycles per minute*
+* **1 Object Scanner, 50 Quickwire -> 1 Automated Wiring (7.5 Object Scanner/min,  375 Quickwire/min -> 7.5 Automated Wiring/min)**
+* *Assembler: Cycle TIme: 8 seconds -> 7.5 cycles per minute*
 * [Math for just modded recipe](../../Documentation/recipe_comparisons/machine_sourced/automated_wiring/automated_wiring_modded.md)
 * [Other Maths](../../Documentation/recipe_comparisons/machine_sourced/automated_wiring/)
 
 > *Ficsit Employee Handbook, section 4, page 32, paragraph 1, point 2 (4.32.1.2.v9.233245) states that Employees of Ficsit will be reassigned through aggressive cloning methods if questioning for what reason the Project Parts are used. Do not question the Project Parts.*
 > 
-> *Ficsit has provided this alternative recipe for quicker production of Automated Wiring*
+> *Ficsit has provided this alternative recipe for slightly  of Automated Wiring*
 
-* Using the Object Scanner (and dealing with screws!) can make the production of Automated Wiring much quicker, less power over all, but cost more in raw resources
+* Using the Object Scanner (and dealing with screws!) can make the production of Automated Wiring much quicker, less power over all, but cost more in raw resources (but skip the oil from the other Alternate!)
