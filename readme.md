@@ -32,15 +32,20 @@ Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
 * Synthetic Inhaler - (Coal, Rotor -> Medical Inhaler)
 * Xeno-Zapper Conduit - (Quickwire, Rubber -> Xeno-Zapper)
 * Pre-Packaged Parachutes - (Fabric, Cable -> Parachute)
+* Portable Object Scanner - (Screws, Wire -> Object Scanner)
 * Alternate: Capacitor Computers (Circuit Boards, Xeno-Zapper -> Computer)
 * Alternate: Silk Reinforced Frames (Parachute, Modular Frames -> Heavy Modular Frames)
 * Alternate: Primitive Adaptive Control Unit (Portable Miner, Computer, AI Limiter -> Adaptive Control Unit)
+* Alternate: Self-Orienting Wiring Cluster (Object Scanner, Quickwire -> Automated Wiring)
+
 
 ## Changelog:
 
 ### Current Version: v1.1.2 
 **2022-10-10 -v1.1.1** - More Machine Sourced Recipes
 * Primitive Adaptive Control Unit, using Portable miner
+* Self-Orienting Wiring Cluster, using Object Scanner
+  * and an object scanner automation recipe
 
 
 ------

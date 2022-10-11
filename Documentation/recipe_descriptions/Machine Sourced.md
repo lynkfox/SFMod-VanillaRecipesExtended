@@ -5,7 +5,7 @@ Machine Sourced adds recipes for adding equipment into factory chains. It also a
 
 Consider these recipes to be used in alternate chains of production, so any factories that are created to produce equipment for Pioneer use can continue to run in providing a source material for higher recipe chains once storage units are full. 
 
-They can also be used to simplify or reduce the footprint of a production chain, as any recipe that uses them has its number of required inputs reduced by using this alternate
+They can also be used to simplify or reduce the footprint of a production chain, as most recipe that uses them has its number of required inputs reduced by using this alternate. Most of these recipes take a few more total raw ingredients, or shift to another set of raw ingredients (that are perhaps a bit more difficult to deal with) but reduce the Power Consumption and total machines (and also the footprint) needed.
 
 ## Synthetic Inhaler
 * **10 Rotor, 20 Coal -> 4 Medical Inhaler (25 Rotors/min, 20 Coal/min -> 10 Medical Inhalers per minute)**
@@ -59,11 +59,32 @@ They can also be used to simplify or reduce the footprint of a production chain,
 * Reduces the need for a Manufacturer for Heavy Modular Frames, leading to significantly less power draw to produce the same amount of Heavy Modular Frames, at a cost of a few additional Modular Frames per HMF and a different production chain for fabric (which adds oil into the mix if going completely automated)
 
 ## Alternate: Primitive Adaptive Control Units
-* **1 Portable Miner, 2 Computers, 6 AI Limiters -> 1 Adaptive Control Unit (2 Portable Miner/min, 3 Computers/min, 12 AI Limiters/min -> 1 Adaptive Control Unit/min)**
-* *Manufacturer: Cycle Time: 120 seconds -> 1 cycle per minute*
+* **1 Portable Miner, 2 Computers, 6 AI Limiters -> 1 Adaptive Control Unit (.5 Portable Miner/min, 1.5 Computers/min, 3 AI Limiters/min -> 1 Adaptive Control Unit/min)**
+* *Manufacturer: Cycle Time: 120 seconds -> .5 cycle per minute*
 * [Math for just modded recipe](../../Documentation/recipe_comparisons/machine_sourced/adaptive_control_unit/adaptive_control_unit_modded.md)
 * [Other Maths](../../Documentation/recipe_comparisons/machine_sourced/adaptive_control_unit/)
   
 > *Previous incarnations of* **The Project** *had less sophisticated requirements and could easily make do with sub-par parts. While this output is not ideal for current situations, Pioneers finding themselves in situations where power is at a premium can make use of this less efficient recipe to gain a savings in power over all, at the cost of some additional raw resources*
 
 * Reduces the total number of machines by removing the Automated Wiring and HMF components. However, if using only standard recipes, requires a significant increase in Oil to produce the plastic and the addition of Caterium.
+
+## Portable Object Scanner
+* **100 Screws, 20 Wire -> 1 Object Scanner (200 Screws/min, 40 Wire/min -> 2 Object Scanner/min)**
+* *Assembler: Cycle TIme: 30 seconds -> 2 cycles per minute*
+
+> *Object Scanners are a must have for the Pioneer on the go. While Ficsit expects its Pioneers to be able to produce what they need in situ, the training of Pioneers often requires a massive amount of automated (and cheaply) produced Object Scanners. Ficsit has released this recipe so Pioneers a distance from the Homeworld produce backup scanners for the inevitable loss due to xeno-fauna, xeno-flora, rain, degradation, internal nuclear isotope rupture, or Pioneer Death.*
+
+* Recipe for allowing Object Scanners to be automated to then use in other recipes. Unfortunately uses the dreaded Screws. Rumor says further tiers of released VRE recipes contain alternates to once again abolish screws from your life.
+
+
+## Alternate: Self-Orienting Wiring Cluster
+* **1 Object Scanner, 50 Quickwire -> 1 Automated Wiring (2 Object Scanner/min, 100 Quickwire/min -> 2 Automated Wiring/min)**
+* *Assembler: Cycle TIme: 30 seconds -> 2 cycles per minute*
+* [Math for just modded recipe](../../Documentation/recipe_comparisons/machine_sourced/automated_wiring/automated_wiring_modded.md)
+* [Other Maths](../../Documentation/recipe_comparisons/machine_sourced/automated_wiring/)
+
+> *Ficsit Employee Handbook, section 4, page 32, paragraph 1, point 2 (4.32.1.2.v9.233245) states that Employees of Ficsit will be reassigned through aggressive cloning methods if questioning for what reason the Project Parts are used. Do not question the Project Parts.*
+> 
+> *Ficsit has provided this alternative recipe for quicker production of Automated Wiring*
+
+* Using the Object Scanner (and dealing with screws!) can make the production of Automated Wiring much quicker, less power over all, but cost more in raw resources
