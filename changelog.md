@@ -27,4 +27,8 @@
 #### **2022-10-10 -v1.1.1** 
 * Silk-Reinforced Frames balanced, now require 11 Modular Frames per/cycle
 
-## Primitive Adaptive Control Unit
+## Primitive Adaptive Control Unit and Self-Oriented Wiring Cluster
+#### **2022-10-10 -v1.1.2** 
+* Primitive Adaptive Control Unit, using Portable miner
+* Self-Orienting Wiring Cluster, using Object Scanner
+  * and an object scanner automation recipe

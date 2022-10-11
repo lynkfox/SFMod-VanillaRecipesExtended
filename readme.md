@@ -42,7 +42,8 @@ Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
 ## Changelog:
 
 ### Current Version: v1.1.2 
-**2022-10-10 -v1.1.1** - More Machine Sourced Recipes
+Portable Miner for Adaptive Control Unit and Object Scanner for Automated Wiring
+**2022-10-10 -v1.1.2** - More Machine Sourced Recipes
 * Primitive Adaptive Control Unit, using Portable miner
 * Self-Orienting Wiring Cluster, using Object Scanner
   * and an object scanner automation recipe
