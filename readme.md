@@ -66,10 +66,6 @@ Portable Miner for Adaptive Control Unit and Object Scanner for Automated Wiring
   * and an object scanner automation recipe
 
 
-s 
-**2022-10-10 -v1.1.1** - Rebalanced Silk-Reinforced Frames, as they were simply objectively better than all alternatives.
-* Silk-Reinforced Frames balanced, now require 11 Modular Frames per/cycle
-
 * [See the full changelog here](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/changelog.md)
 
 ### Upcoming:
