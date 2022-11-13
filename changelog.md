@@ -32,3 +32,15 @@
 * Primitive Adaptive Control Unit, using Portable miner
 * Self-Orienting Wiring Cluster, using Object Scanner
   * and an object scanner automation recipe
+
+------
+
+## Power Overwhelming - Recipes that have weird numbers and require high-end machines for better production of lower tier items.
+
+#### **2022-11-12 - v1.2.0**
+* Tier 7 Milestone: Power Overwhelming added.
+  * Object Scanner, using no screws in the Manufacturer.
+  * Steel Ingot, using fabric in the Manufacturer.
+  * Reinforced Iron Plates in the Blender.
+  * Steel Beams in the Blender.
+  * Steel Pipes in the Manufacturer.

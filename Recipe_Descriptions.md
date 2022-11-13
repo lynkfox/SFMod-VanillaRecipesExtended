@@ -5,7 +5,7 @@ More flavorful descriptions (that also include the parts per minute calculations
 * [Bio Extended (Tier 3 Milestone Unlock)](Documentation/recipe_descriptions/Bio%20Extended.md)
 * [Machine Sourced (Tier 5 Milestone Unlock)](Documentation/recipe_descriptions/Machine%20Sourced.md)
   * [Machine Sourced Math](Documentation/recipe_comparisons/machine_sourced)
-* More Power, More Output (Forthcoming)
+* [Power Overwhelming (Tier 7 Milestone Unlock)](Documentation/recipe_descriptions/Power%20Overwhelming.md)
 * Pay To Skip (Forthcoming)
 * The Project (Forthcoming)
 * Horizons (Forthcoming)

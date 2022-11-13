@@ -8,8 +8,8 @@ I am one person with mediocre math skills. While with the help of some programmi
 
 ## Recipes added by this mod:
 
-**Total New Recipes:** 13
-**Total New Milestones:** 2
+**Total New Recipes:** 18
+**Total New Milestones:** 3
 ------
 
 You can find all the recipes located and how they breakdown (and similar breakdowns for some vanilla versions) in [Recipe Comparisons](https://github.com/lynkfox/SFMod-VanillaRecipesExtended/blob/main/Documentation/recipe_comparisons)
@@ -38,10 +38,27 @@ Cost: 50 Medical Inhalers, 1 Portable Miner, 1 Xeno-basher, 25 Rebar
 * Alternate: Primitive Adaptive Control Unit (Portable Miner, Computer, AI Limiter -> Adaptive Control Unit)
 * Alternate: Self-Orienting Wiring Cluster (Object Scanner, Quickwire -> Automated Wiring)
 
+### Tier 7 Milestone: Power Overwhelming
+Cost: 50 Batteries, 100 Packaged Turbo Fuel, 500 Caterium Ingots
+* Alternate: 3D Printed Object Scanner (Iron Ingot, Rubber, Plastic -> Object Scanner)
+* Alternate: Silk Reinforced Steel (Fabric, Iron Ore, Coal -> Steel Ingot)
+* Alternate: Electroplated Iron Plate (Sulfuric Acid, Iron Plates, Plastic -> Reinforced Iron Plate)
+
 
 ## Changelog:
 
-### Current Version: v1.1.2 
+### Current Version: v1.2.0 - Power Overwhelming
+New Milestone: Power Overwhelming - Recipes that have weird numbers and require high-end machines for better production of lower tier items.
+**2022-11-12 - v1.2.0**
+* Tier 7 Milestone: Power Overwhelming added.
+  * Object Scanner, using no screws in the Manufacturer.
+  * Steel Ingot, using fabric in the Manufacturer.
+  * Reinforced Iron Plates in the Blender.
+  * Steel Beams in the Blender.
+  * Steel Pipes in the Manufacturer.
+
+------
+### Previous Version
 Portable Miner for Adaptive Control Unit and Object Scanner for Automated Wiring
 **2022-10-10 -v1.1.2** - More Machine Sourced Recipes
 * Primitive Adaptive Control Unit, using Portable miner
@@ -49,8 +66,7 @@ Portable Miner for Adaptive Control Unit and Object Scanner for Automated Wiring
   * and an object scanner automation recipe
 
 
-------
-### Previous Versions 
+s 
 **2022-10-10 -v1.1.1** - Rebalanced Silk-Reinforced Frames, as they were simply objectively better than all alternatives.
 * Silk-Reinforced Frames balanced, now require 11 Modular Frames per/cycle
 
@@ -59,8 +75,6 @@ Portable Miner for Adaptive Control Unit and Object Scanner for Automated Wiring
 ### Upcoming:
 
 * More Recipes!
-  * **Machine Sourced** Equipment used as Input - Parachutes/Portable Miners/Medical Inhalers, reducing footprints of other recipes.
-  * **More Power More Output** Use higher tier machines to produce lower tier materials, at a cost of power for far better output
   * **Pay for the Skip** Use lower tier machines to produce higher tier materials, at a cost of higher input materials and slightly lower outputs (but saving a lot of power)
   * **The Project** Use Space Elevator Project Parts for production of Medium to High tier items
   * **Horizons** Use SAM Ore, Sommersloops, Mercer Spheres, Slugs, and Alien Protein for production (along with recipes to "produce" said items)
