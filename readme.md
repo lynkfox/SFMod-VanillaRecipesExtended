@@ -47,9 +47,9 @@ Cost: 50 Batteries, 100 Packaged Turbo Fuel, 500 Caterium Ingots
 
 ## Changelog:
 
-### Current Version: v1.2.0 - Power Overwhelming
+### Current Version: v1.2.1 - Power Overwhelming
 New Milestone: Power Overwhelming - Recipes that have weird numbers and require high-end machines for better production of lower tier items.
-**2022-11-12 - v1.2.0**
+**2022-11-12 - v1.2.1**
 * Tier 7 Milestone: Power Overwhelming added.
   * Object Scanner, using no screws in the Manufacturer.
   * Steel Ingot, using fabric in the Manufacturer.
